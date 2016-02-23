@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1441015401724-70d16b783f5c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2c9c534af7392da3f95dbe3b001bd54c);
+	background-size: cover;
+}
+
+.jumbotron {
+	width: 75%;
+	text-align: center;
+	margin: 0 auto;
+	height: 100%;
+}
